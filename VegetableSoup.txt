@@ -9,3 +9,4 @@ Vegetable Soup Recipe:
 		- one Spring Onion
 		- Celery
 		- Bouillon
+		- Salt
