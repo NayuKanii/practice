@@ -4,5 +4,6 @@ Vegetable Soup Recipe:
 		- one Pumpkin
 		- five slices of smoked paprika
 		- five tomatoes
-		- two onions
+		- one onion
+		- four carrots
 		- bouillon
