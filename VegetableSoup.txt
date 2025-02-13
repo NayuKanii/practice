@@ -7,4 +7,5 @@ Vegetable Soup Recipe:
 		- one Onion
 		- four Carrots
 		- one Spring Onion
-		- bouillon
+		- Celery
+		- Bouillon
